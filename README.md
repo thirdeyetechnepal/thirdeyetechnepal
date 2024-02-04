@@ -17,8 +17,8 @@ At Third Eye Tech, we are passionate about crafting innovative solutions at the 
 - **Innovation at Core:** We thrive on creative problem-solving, consistently pushing boundaries to deliver state-of-the-art solutions.
 
 🛠️ **Our Projects:**
-- CAAN Oversight System - A complete solution for ANSSSD department for Nepal, Civil Aviation Head Office.
-- Mero Table - A online digital solution for restaurant order process management system, QR based order management for social distancing.
+- **CAAN Oversight System**- A complete solution for ANSSSD department for Nepal, Civil Aviation Head Office.
+- **Mero Table** - A online digital solution for restaurant order process management system, QR based order management for social distancing.
 - ...
 
 👥 **Our Team:**
