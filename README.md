@@ -1,4 +1,4 @@
-🚀 Welcome to [Company Name] GitHub Profile! 🚀
+🚀 Welcome to Third Eye Tech.. GitHub Profile! 🚀
 
 At Third Eye Tech, we are passionate about crafting innovative solutions at the intersection of cutting-edge technologies. 🌐✨
 
